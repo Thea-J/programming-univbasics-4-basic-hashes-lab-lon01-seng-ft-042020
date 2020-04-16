@@ -1,5 +1,6 @@
 #You dont need to assign these to variables
-#Return an empty has
+
+#Return an empty hash
 def new_hash
 Hash.new
 end
@@ -18,3 +19,4 @@ end
 def id_hash_generator(number)
 {:id => number }
 end
+
